@@ -1,4 +1,4 @@
-const socket = io('https://chatapp-1-1zxm.onrender.com');
+const socket = io('http://localhost:8000');
 const form = document.getElementById('send-container');
 const mssg = document.getElementById('mssg');
 const mssgContainer = document.querySelector('.container');
