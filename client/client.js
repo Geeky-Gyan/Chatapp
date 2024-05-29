@@ -1,4 +1,4 @@
-const socket = io('https://chatapp-epir.onrender.com');
+const socket = io('https://chatapp-1-1zxm.onrender.com');
 const form = document.getElementById('send-container');
 const mssg = document.getElementById('mssg');
 const mssgContainer = document.querySelector('.container');
